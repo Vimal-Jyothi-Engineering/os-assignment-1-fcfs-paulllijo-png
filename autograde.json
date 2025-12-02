@@ -1,0 +1,9 @@
+{
+  "tests": [
+    {
+      "name": "FCFS Scheduling Tests",
+      "run": "bash tests/test.sh",
+      "points": 25
+    }
+  ]
+}
